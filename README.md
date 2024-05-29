@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Ftags%2F3119-pixelart-gifs%3Fpage%3D3&psig=AOvVaw1jl_GH1iPh9sRZwvJWVJT1&ust=1717062932710000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDLkoXMsoYDFQAAAAAdAAAAABAJ](https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif))](https://shreyastl.github.io/)
+[![MasterHead](https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif)](https://vanithkumars25.github.io/)
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 <h3 align="center">Passionate about Data Analysis 📈</h3>
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
