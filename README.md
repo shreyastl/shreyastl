@@ -1,4 +1,4 @@
-[![MasterHead](https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif)](https://vanithkumars25.github.io/)
+[![MasterHead](https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif)](https://shreyastl.github.io/)
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 <h3 align="center">Passionate about Data Analysis 📈</h3>
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
