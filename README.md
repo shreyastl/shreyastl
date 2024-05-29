@@ -5,15 +5,15 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vanithkumars25&label=Profile%20views&color=0e75b6&style=flat" alt="shreyastl48" /> </p> -->
 
-- **🌱 I have leveraged my skills in the field of Data Analytics.**
+- **🌱 I have utilized my expertise in the domain of Data Analytics.**
 
-- **👯 I am seeking for an opportunity where I can apply my expertise and knowledge to drive business profitability.**
+- **👯 I am seeking a position where I can utilize my skills and experience to improve business profitability.**
 
-- 💬 Ask me about **Python, SQL, and crafting compelling visualizations.**
+- 💬 Ask me about **Excel, SQL, and creating impactful visualizations.**
 
 - 📫 How to reach me **shreyastl48@gmail.com**
 
-- ⚡ Fun fact - **I believe data has stories to tell, and I'm here to tell them through code and visuals.**
+- ⚡ Fun fact - **I believe data contains compelling narratives, and my goal is to reveal them through programming and visualizations..**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
